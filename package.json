@@ -1,7 +1,8 @@
 {
-  "name": "rusher-js",
+  "name": "theRush",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://iha2.github.io/the-rush",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
@@ -13,6 +14,8 @@
     "styled-components": "^4.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
