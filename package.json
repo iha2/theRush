@@ -2,7 +2,7 @@
   "name": "theRush",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://iha2.github.io/the-rush",
+  "homepage": "http://iha2.github.io/theRush",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
