@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/theRush/static/js/2.767bbb38.chunk.js"
   },
   {
-    "revision": "0676c51e0a6753513ff3b7b9397a204a",
+    "revision": "8dfdec25fd37398cec30dd7c2a463d74",
     "url": "/theRush/index.html"
   }
 ];
