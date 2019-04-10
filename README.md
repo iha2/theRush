@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-If you want to see the application live, got https://iha2.github.io/theRush/
+If you want to see the application live, go to https://iha2.github.io/theRush/
